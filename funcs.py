@@ -3,6 +3,6 @@ def summ(a, b):
     return sum
 
 
-def summ(a, b):
-    difference = a - b
-    return difference
+def difference(a, b):
+    diff = a - b
+    return diff
